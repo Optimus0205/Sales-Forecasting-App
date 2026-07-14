@@ -11,7 +11,8 @@ st.title("📊 Sales Forecasting & Analytics Dashboard")
 
 st.markdown(
     """
-Welcome! This dashboard shows about the sales forecasting analysis. Use the sidebar to navigate between pages:
+Welcome! This dashboard turns the sales forecasting analysis notebook into an
+interactive app. Use the sidebar to navigate between pages:
 
 - **1 — Sales Overview**: total sales by year, monthly trend, and interactive
   filters by region and category
