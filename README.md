@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](#)
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://salesforecasting-dashboard.streamlit.app/) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 
