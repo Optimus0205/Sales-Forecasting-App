@@ -143,6 +143,7 @@ Made with ❤️ using Streamlit
 
 ## 🙋‍♂️ Author
 
+# **Ashutosh Singh**
 **[Optimus0205](https://github.com/Optimus0205)**
 
 ⭐ If you found this project useful, consider giving it a star!
